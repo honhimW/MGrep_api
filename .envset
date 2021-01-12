@@ -1,0 +1,6 @@
+export SQL_USERNAME='root'  
+export SQL_PASSWORD='123456' 
+export SQL_PORT='3306'  
+export SQL_DATABASE='db_mgrep'
+export MAIL_USERNAME='xiaojing@maijinggene.com'
+export MAIL_PASSWORD='rfchBMKJTThkFXvQ'
